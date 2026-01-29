@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-XDKernel-Flyme-androud11"
+CONFIG_LOCALVERSION="-XDKernel-Flyme-android-11"
 # CONFIG_USELIB is not set
 CONFIG_AUDIT=y
 # CONFIG_AUDITSYSCALL is not set
